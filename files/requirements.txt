@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+customtkinter
+pystray
+pillow
+pyinstaller
